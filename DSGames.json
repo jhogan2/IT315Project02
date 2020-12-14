@@ -5,6 +5,6 @@
 {"Name":"Pokemon X","Description":"Collect Pokemon, battle against trainers and take on the gym leaders and Elite Four","DSID":2,"Image":"https://github.com/jhogan2/IT315Project02/blob/main/Pokemon_X.jpg","Rating":"E","Released":"Oct 13, 2013","SiteLink":"https://www.amazon.com/3DS-Pokemon-X-World-Nintendo/dp/B0842BM7JN"},
 {"Name":"Zelda 3d Ocarina of Time","Description":"A boy finds himself in the middle of the battle of good and evil","DSID":3,"Image":"https://github.com/jhogan2/IT315Project02/blob/main/Zelda_OOT.jpg","Rating":"E","Released":"June 16 2011","SiteLink":"https://www.amazon.com/Legend-Zelda-Ocarina-Time-Nintendo-3DS/dp/B003O6E800"},
 {"Name":"Zelda 3d Majoras Mask","Description":"A boy goes on an advneture to find his friend and ends up in another battle of good and evil","DSID":4,"Image":"https://github.com/jhogan2/IT315Project02/blob/main/Zelda_MM_.jpg","Rating":"E","Released":"February 13, 2015","SiteLink":"https://www.amazon.com/Legend-Zelda-Majoras-Mask-3D-3DS/dp/B00PB9LZQI"},
-{"Name":"Brothers in Arms","Description":"War Game","DSID":5,"Image":"https://github.com/jhogan2/IT315Project02/blob/main/230px-Brothersinarmsds.jpg","Rating":"M","Released":"June 7, 2007","SiteLink":"https://en.wikipedia.org/wiki/Brothers_in_Arms_DS"}, ],
+{"Name":"Brothers in Arms","Description":"War Game","DSID":5,"Image":"https://github.com/jhogan2/IT315Project02/blob/main/230px-Brothersinarmsds.jpg","Rating":"M","Released":"June 7, 2007","SiteLink":"https://en.wikipedia.org/wiki/Brothers_in_Arms_DS"} ],
   "Status":"OK"
 }
